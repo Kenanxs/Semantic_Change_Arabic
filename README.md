@@ -68,4 +68,5 @@ The part 3 output files (target words and occurrences) can be used in the subseq
 - [All Results Combined (Parts 5,6 and 7)](Results.pkl)
 The outputs from all models (i.e. parts 5,6 and 7) can be used in the results notebook. 
 
--[SCWS Dataset for Evaluation](
+-[SCWS Dataset for Evaluation](ratings.txt)
+This is the SCWS ratings dataset used for the evaluation task. 
