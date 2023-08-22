@@ -73,3 +73,27 @@ The outputs from all models (i.e. parts 5,6 and 7) can be used in the results no
 -[SCWS Dataset for Evaluation](ratings.txt)
 
 This is the SCWS ratings dataset used for the evaluation task. 
+
+## Acknowledgments
+1. AraBERT Model
+@inproceedings{antoun2020arabert,
+  title={AraBERT: Transformer-based Model for Arabic Language Understanding},
+  author={Antoun, Wissam and Baly, Fady and Hajj, Hazem},
+  booktitle={LREC 2020 Workshop Language Resources and Evaluation Conference 11--16 May 2020},
+  pages={9}
+}
+2. CAMeLBERT Models
+@inproceedings{inoue-etal-2021-interplay,
+    title = "The Interplay of Variant, Size, and Task Type in {A}rabic Pre-trained Language Models",
+    author = "Inoue, Go  and
+      Alhafni, Bashar  and
+      Baimukan, Nurpeiis  and
+      Bouamor, Houda  and
+      Habash, Nizar",
+    booktitle = "Proceedings of the Sixth Arabic Natural Language Processing Workshop",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine (Online)",
+    publisher = "Association for Computational Linguistics"
+}
+
