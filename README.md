@@ -59,7 +59,7 @@ Using the cosine similarity scores from Parts 5, 6, and 7, this Colab notebook c
 ## Data Files and Results
 This section explains the purpose and format of the provided data files and results. These files provide easy access to each part of the repository. It offers the data needed to directly access any notebook without running the preceding ones. You'll find the output files from each notebook, allowing you to jump between notebooks without the necessity to execute the entire sequence. 
 - [Part 3 Output: Target Words](target_words.pkl)
-- [Part 3 Output: Occurrences] (need to get link)
+- [Part 3 Output: Occurrences] : Files are too large to upload here. Google Drive link to corpus text files: https://drive.google.com/drive/folders/1uHJHDLbZr0_UhFIqiSAJ1xXlyGqqbUtH?usp=sharing
 
 The part 3 output files (target words and occurrences) can be used in the subsequent notebooks (Part 5 onwards). 
 
