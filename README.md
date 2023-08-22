@@ -60,13 +60,16 @@ Using the cosine similarity scores from Parts 5, 6, and 7, this Colab notebook c
 This section explains the purpose and format of the provided data files and results. These files provide easy access to each part of the repository. It offers the data needed to directly access any notebook without running the preceding ones. You'll find the output files from each notebook, allowing you to jump between notebooks without the necessity to execute the entire sequence. 
 - [Part 3 Output: Target Words](target_words.pkl)
 - [Part 3 Output: Occurrences] (need to get link)
+
 The part 3 output files (target words and occurrences) can be used in the subsequent notebooks (Part 5 onwards). 
 
 - [Part 5 Output: AraBERT cosine](cosine_Arabertb.csv)
 - [Part 6 Output: CAMeLBERT MSA cosine](cosine_MSA.csv)
 - [Part 7 Output: CAMeLBERT CA cosine](cosine_CA.csv)
 - [All Results Combined (Parts 5,6 and 7)](Results.pkl)
+
 The outputs from all models (i.e. parts 5,6 and 7) can be used in the results notebook. 
 
 -[SCWS Dataset for Evaluation](ratings.txt)
+
 This is the SCWS ratings dataset used for the evaluation task. 
