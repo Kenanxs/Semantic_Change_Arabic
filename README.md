@@ -96,4 +96,5 @@ This is the SCWS ratings dataset used for the evaluation task.
     address = "Kyiv, Ukraine (Online)",
     publisher = "Association for Computational Linguistics"
 }
-
+3. OpenITI Corpus
+Nigst, Lorenz, Romanov, Maxim, Savant, Sarah Bowen, Seydi, Masoumeh, & Verkinderen, Peter. (2023). OpenITI: a Machine-Readable Corpus of Islamicate Texts (2022.2.7) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7687795
